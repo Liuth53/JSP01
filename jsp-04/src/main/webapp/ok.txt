@@ -1,0 +1,4 @@
+<%@ page contentType="text/html;Charset=UTF-8" pageEncoding="UTF-8"%>
+<A href="firstExample10.jsp" target="_blank">欢迎去firstExample10.jsp页面</A>
+<BR>
+<A href="secondExample10.jsp" target="_blank">欢迎去secondExample10.jsp页面</A>
